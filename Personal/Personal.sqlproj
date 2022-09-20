@@ -61,7 +61,5 @@
   </ItemGroup>
   <ItemGroup>
     <Build Include="dbo\Tables\transactions.sql" />
-    <Build Include="dbo\Tables\Testing.sql" />
-    <Build Include="dbo\Tables\TestingAgain.sql" />
   </ItemGroup>
 </Project>
